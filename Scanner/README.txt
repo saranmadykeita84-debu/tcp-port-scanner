@@ -1,7 +1,6 @@
 # Travail Pratique #1: TCP Port Scanner 
 ## Auteurs
- - Code permanent KEIS02060000, nom Keita, prénom Saran Mady
-- Code permanent DIAT10010001, nom Diallo, prénom Thierno Rassid
+ - Nom Keita, prénom Saran Mady
 ## Compatibilité 
 Langage – version < Python -- version  3.9.13 --> 
 ## Utilisation 
